@@ -9,6 +9,6 @@ We covered also the ACP: add, commit, and push git commands.
 It started kinda blurry for me, and I was feeling very confused. Tracey and Brian helped me a lot with making sense of this confusion in my head. Tracey also helped me get my atom linter to finally work. So grateful.
 
 I was also trying to apply what I learned during my lab exercise trying to:
-git add .
+git add . \n
 git commit -m 'I'm just practicing these commands one more time'
 git push origin master
