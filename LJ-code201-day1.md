@@ -1,4 +1,6 @@
-This is my first journal entry:
+# This is my first journal entry:
+
+## day2
 
 Today it is my second day in class. We continued to learn javascript today and we are building upon what we learned yesterday using prompt, alert, and the console.log().
 
